@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Pablo
 opkg update
 wait
 opkg install ca-bundle git git-http nano nmap python3 python3-pip python3-setuptools openssl-util curl coap-client unzip coreutils-nohup
